@@ -1,0 +1,44 @@
+.cover_img {
+    height: 80vh;
+}
+
+.card_1 {
+    background-color: rgba(0, 0, 230, 0.2);
+    border-radius: 30px;
+}
+
+.card_2 {
+    background-color: rgba(187, 87, 102, 0.4);
+    border-radius: 30px;
+}
+
+.map_1 {
+    background-color: rgba(133, 117, 206, 0.4);
+    border-radius: 30px;
+}
+
+.insp {
+    background-color: rgba(223, 78, 167, 0.4);
+    border-radius: 30px;
+}
+
+.map_btn {
+    position: absolute;
+    top: 780px;
+    left: 250px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.map_btn:hover {
+    color: white;
+    background-color: green;
+}
+
+.footer_1 {
+    background-color: rgba(109, 185, 125, 0.4);
+    border-radius: 30px;
+}
